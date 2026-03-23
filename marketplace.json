@@ -1,0 +1,11 @@
+{
+  "name": "pfbarros2-plugins",
+  "description": "AI integration skills by Pedro Barros",
+  "plugins": [
+    {
+      "name": "ai-integration-architect",
+      "description": "Design and scaffold AI integration into enterprise systems",
+      "git": "https://github.com/pfbarros2/ai-integration-architect"
+    }
+  ]
+}
