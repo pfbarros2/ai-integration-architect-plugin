@@ -1,0 +1,11 @@
+{
+  "name": "ai-integration-architect",
+  "description": "Design, plan, and scaffold AI integration into enterprise systems. Generates MCP servers, API connectors, RAG pipelines, and event-driven architectures with security, monitoring, and deployment plans built in.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Pedro Barros"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/pfbarros2/ai-integration-architect",
+  "homepage": "https://github.com/pfbarros2/ai-integration-architect"
+}
